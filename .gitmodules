@@ -1,3 +1,6 @@
 [submodule "bfe"]
 	path = bfe
 	url = git@github.com:escwxyz/bfe.git
+[submodule "leetcode"]
+	path = leetcode
+	url = git@github.com:escwxyz/leetcode.git
