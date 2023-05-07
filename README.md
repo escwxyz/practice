@@ -1,4 +1,7 @@
 Coding practices from different sources
 
-- [leetcode](https://leetcode.com)
-- [BigFrontEnd](https://bigfrontend.dev)
+- [LeetCode](https://leetcode.com/)
+- [BigFrontEnd](https://bigfrontend.dev/)
+- [Advent of Code](https://adventofcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [nowcoder](https://www.nowcoder.com/exam/oj)
